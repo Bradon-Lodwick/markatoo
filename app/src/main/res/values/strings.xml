@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Markatoo</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="package_name">com.bradonlodwick.markatoo</string>
+
+    <!-- Preference related strings -->
+    <string name="first_time">first time</string>
+
+    <!-- Login page strings -->
+    <string name="welcome_logo_description">Markatoo Logo</string>
+    <string name="welcome_message">Welcome to</string>
+    <string name="get_started_button">Get Started</string>
+</resources>
